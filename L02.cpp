@@ -9,5 +9,7 @@ int main(){
     } else {
         std::cout << "Парне";
     }
+
+
     return 0;
 }
